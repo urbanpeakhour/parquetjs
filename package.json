@@ -3,7 +3,7 @@
   "description": "fully asynchronous, pure JavaScript implementation of the Parquet file format",
   "main": "parquet.js",
   "types": "parquet.d.ts",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "homepage": "https://github.com/urbanpeakhour/parquetjs",
   "author": "ironSource <npm@ironsrc.com>",
   "license": "MIT",
