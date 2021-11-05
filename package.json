@@ -2,6 +2,7 @@
   "name": "parquetjs",
   "description": "fully asynchronous, pure JavaScript implementation of the Parquet file format",
   "main": "parquet.js",
+  "types": "parquet.d.ts",
   "version": "0.8.0",
   "homepage": "https://github.com/ironSource/parquetjs",
   "author": "ironSource <npm@ironsrc.com>",
