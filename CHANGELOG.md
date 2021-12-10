@@ -1,3 +1,15 @@
+## [0.9.0](https://github.com/urbanpeakhour/parquetjs/compare/v0.8.1...v0.9.0) (2021-12-10)
+
+
+### Features
+
+* remove lzo compression (due to node-gyp issues), lock dependencies ([7292c22](https://github.com/urbanpeakhour/parquetjs/commit/7292c22b1dd6bfe9962490999b5cd9af6170d830))
+
+
+### Chores
+
+* fix broken test ([f433bc5](https://github.com/urbanpeakhour/parquetjs/commit/f433bc5f58b8255463be33174e4f9e340bdb6ceb))
+
 ### [0.8.1](https://github.com/urbanpeakhour/parquetjs/compare/v0.8.0...v0.8.1) (2021-11-05)
 
 
