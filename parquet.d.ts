@@ -31,7 +31,7 @@ type ParquetCompressionMethod =
   | "UNCOMPRESSED"
   | "GZIP"
   | "SNAPPY"
-  | "LZO"
+  // | "LZO"
   | "BROTLI";
 
 export type ParquetSchemaDefinition = Record<string, ParquetFieldDefinition>;
