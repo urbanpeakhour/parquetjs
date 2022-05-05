@@ -1,3 +1,18 @@
+
+
+### [0.9.1](https://github.com/urbanpeakhour/parquetjs/compare/v0.9.0...v0.9.1) (2022-05-05)
+
+
+### Bug Fixes
+
+* close callback being called multiple times ([7c1fda3](https://github.com/urbanpeakhour/parquetjs/commit/7c1fda3dcab5aee987eab502d94d24199e0ca8d5))
+
+
+### Chores
+
+* run tests on release ([4ea7951](https://github.com/urbanpeakhour/parquetjs/commit/4ea7951b5ab70a6fda8ca372277faf39b399c8aa))
+* upgrade dependencies ([27dd98c](https://github.com/urbanpeakhour/parquetjs/commit/27dd98cc106a523111452ed49493874216b7781c))
+
 ## [0.9.0](https://github.com/urbanpeakhour/parquetjs/compare/v0.8.1...v0.9.0) (2021-12-10)
 
 
@@ -34,4 +49,3 @@
 ## [0.3.0](https://github.com/urbanpeakhour/parquetjs/compare/v0.8.0...v0.8.1) (2017-10-17)
 
 ## [0.2.0](https://github.com/urbanpeakhour/parquetjs/compare/v0.8.0...v0.8.1) (2017-10-17)
-
