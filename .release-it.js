@@ -1,4 +1,7 @@
 module.exports = {
+  hooks: {
+    "after:init": "yarn test",
+  },
   github: {
     release: true,
     releaseName: "Release ${version}",
@@ -14,7 +17,7 @@ module.exports = {
   },
   plugins: {
     "@release-it/conventional-changelog": {
-      ignoreRecommendedBump: true,
+      infile: "CHANGELOG.md",
       preset: {
         name: "conventionalcommits",
         types: [
@@ -24,7 +27,6 @@ module.exports = {
           { type: "revert", section: "Reverts" },
        ],
       },
-      infile: "CHANGELOG.md",
     },
   },
 };
